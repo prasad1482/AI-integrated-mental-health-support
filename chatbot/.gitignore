@@ -1,6 +1,6 @@
-node_modules/
-venv/
+venv312/
 __pycache__/
+*.pyc
+chroma_db/
 .env
 .DS_Store
-*.log
